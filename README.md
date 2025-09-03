@@ -1,33 +1,45 @@
-# 💫 About Me:
-👋 Hi there! I'm **Deepika**, a Cybersecurity Engineer passionate about mastering the art of cybersecurity.<br><br>
+# 💫 About Me:  
+👋 Hi there! I'm **Deepika**, a Cybersecurity Engineer passionate about mastering the art of cybersecurity.  
 
-🎓 **Education:**  
-BTech in Information Security & Digital Forensics from *Dr. M.G.R. Educational and Research Institute*.<br><br>
+---
 
-💡 **What Drives Me:**  
-🔹 Exploring cutting-edge cybersecurity techniques  
-🔹 Continuously sharpening skills in ethical hacking, penetration testing, and network security 
-🔹 Building practical solutions and solving real-world cybersecurity challenges<br><br>
+🎓 **Education**  
+- BTech in Information Security & Digital Forensics from *Dr. M.G.R. Educational and Research Institute*  
 
-🛠️ **Skills:**<br><br>
-🔹Network Penetration Testing<br><br>
-🔹Web & API Security<br><br>
-🔹Python Scripting & Automation<br><br>
-🔹Red Teaming & Exploitation<br><br>
-🔹Digital Forensics & Incident Response<br><br>
+---
 
-📚 **On My Learning Radar:**  
-🔹 Advanced offensive and defensive security tools  
-🔹 Red team operations & threat modeling  
-🔹 Vulnerability assessment frameworks & automation scripting<br><br>
+💡 **What Drives Me**  
+- Exploring cutting-edge cybersecurity techniques  
+- Continuously sharpening skills in ethical hacking, penetration testing, and network security  
+- Building practical solutions and solving real-world cybersecurity challenges  
 
-🚀 **Current Focus:**
-🔹 red team and penetration testing engagements
-🔹Developing automation tools with Python
-🔹Implementing vulnerability assessment frameworks
-🔹Building custom security scripts for penetration testing
+---
 
-🔍 *Exploring the unknown in security — one exploit, one defense, one lesson at a time.*<br><br>
+🛠️ **Skills**  
+- Network Penetration Testing  
+- Web & API Security  
+- Python Scripting & Automation  
+- Red Teaming & Exploitation  
+- Digital Forensics & Incident Response  
+
+---
+
+📚 **On My Learning Radar**  
+- Advanced offensive and defensive security tools  
+- Red team operations & threat modeling  
+- Vulnerability assessment frameworks & automation scripting  
+
+---
+
+🚀 **Current Focus**  
+- Leading red team and penetration testing engagements  
+- Developing automation tools with Python  
+- Implementing vulnerability assessment frameworks  
+- Building custom security scripts for penetration testing  
+
+---
+
+🔍 *Exploring the unknown in security — one exploit, one defense, one lesson at a time.*  
 
 ---
 
