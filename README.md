@@ -10,7 +10,7 @@ BTech in Information Security & Digital Forensics from *Dr. M.G.R. Educational a
 🔹 Building practical solutions and solving real-world cybersecurity challenges<br><br>
 
 🛠️ **Skills:**
-🔹Network Penetration Testing
+🔹Network Penetration Testing<br><br>
 🔹Web & API Security
 🔹Python Scripting & Automation
 🔹Red Teaming & Exploitation
